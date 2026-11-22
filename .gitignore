@@ -1,0 +1,9 @@
+rust/target/
+go/apishadow-proxy
+capture.jsonl
+capture/
+*.pyc
+__pycache__/
+.env
+.idea/
+.vscode/
