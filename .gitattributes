@@ -1,0 +1,12 @@
+# GitHub Linguist overrides for repository language statistics.
+*.go   linguist-language=Go
+*.rs   linguist-language=Rust
+*.py   linguist-language=Python
+*.sh   linguist-language=Shell
+*.yml  linguist-language=YAML
+*.h    linguist-language=C
+Makefile linguist-language=Makefile
+
+README.md linguist-detectable=false
+docs/schema.sql linguist-detectable=false
+rust/Cargo.lock linguist-detectable=false
